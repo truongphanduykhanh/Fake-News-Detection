@@ -1,3 +1,5 @@
+*The Goal this project is to detect if a news is fake based on its contents and network situation*
+
 * There are following components in this folder:
 
 Folder "fake-news-prediction-toulouse": 	Raw data
